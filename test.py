@@ -43,4 +43,4 @@ class Car:
     @staticmethod
     def drive(speed):
         return f'Машина едет со скоростью {speed}'
-print(Car.drive(12312))
+print(Car.drive(123))
